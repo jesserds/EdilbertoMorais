@@ -1,10 +1,10 @@
 ### <h1>Olá 👋! Eu sou Edilberto Morais</h1>
 
-- 🔭  Atualmente estou estudando Programação de Software na Alura.
-- 🌱  Foco principal agora é aprender a linguagem JAVA.
+- 🔭 Atualmente estou estudando Programação de Software na Alura.
+- 🌱 Foco principal agora é aprender a linguagem JAVA.
 - 🚚 Estou migrando de carreira, saindo do setor de transportes por onde passei 14 anos.
-- 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
-- 📫  Você pode me achar no <a href="www.linkedin.com/in/edilbertocmorais ">LinkedIn</a>
+- 💬 Pergunte-me sobre como está sendo esta transição, e como foi que tomei essa decisão.
+- 📫 Você pode me achar no <a href="www.linkedin.com/in/edilbertocmorais">LinkedIn</a>
 ##
 
 <div>
@@ -30,4 +30,5 @@
 <a href = "mailto:edilbertocmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
-![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
+ 
+![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg) 
