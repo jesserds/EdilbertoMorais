@@ -31,4 +31,6 @@
  
 </div>
 ##
+ <div>
  ![ Animação de cobra ](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
+ </div>
