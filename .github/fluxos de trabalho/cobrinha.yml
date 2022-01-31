@@ -14,7 +14,7 @@ empregos :
       - usa : Platane / snk @ master
         id : snake-gif
         com :
-          github_user_name : edilbertomorais
+          github_user_name : Edilberto Morais
           svg_out_path : dist / github-customization-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
