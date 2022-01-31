@@ -4,11 +4,11 @@
 - 🌱  Foco principal agora é aprender a linguagem JAVA.
 - 🚚 Estou migrando de carreira, saindo do setor de transportes por onde passei 14 anos.
 - 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
-- 📫  Você pode me achar no Linkedin: www.linkedin.com/in/edilbertocmorais 
+- 📫  Você pode me achar no <a href=" www.linkedin.com/in/edilbertocmorais ">LinkedIn</a>
 - ##
 
 <div>
-<a href="https://github.com/edilbertomorais">
+<a href="https://github.com/ EdilbertoMorais ">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilbertomorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertomorais&layout=compact&langs_count=7&theme=radical"/>
 </div
@@ -30,3 +30,4 @@
 <a href = "mailto:edilbertocmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+![ Animação de cobra ](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
